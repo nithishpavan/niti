@@ -1,0 +1,12 @@
+.bg-container
+{
+    background-color: aqua;
+    background-size: cover;
+}
+
+.space
+{
+    padding: 20px;
+    margin: 20px
+    ;
+}
